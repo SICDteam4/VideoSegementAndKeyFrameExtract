@@ -1,0 +1,10 @@
+(lp1
+S'asdfsd'
+p2
+aS'adfsaf'
+p3
+aS'dasfsadf'
+p4
+aS'sdafaf'
+p5
+a.
